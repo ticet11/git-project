@@ -3,3 +3,5 @@
 ## Editing on a new branch.
 
 > Here's a change.
+
+> Added to master.
