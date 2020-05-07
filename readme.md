@@ -9,3 +9,5 @@
 > Changes for git pull demo.
 
 > Wow, new info.
+
+> Branch to be deleted demo.
