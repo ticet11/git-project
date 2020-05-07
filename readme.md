@@ -2,7 +2,7 @@
 
 ## Editing on a new branch.
 
-> Here's a change.
+> Here's some change.
 
 > Added to master.
 

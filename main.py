@@ -1,4 +1,4 @@
-print('Hello, git boy.')
+print('Howdy, git boy.')
 
 print('Ew, probably do not edit files on github.com')
 
