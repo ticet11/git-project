@@ -5,3 +5,5 @@
 > Here's a change.
 
 > Added to master.
+
+> Changes for git pull demo.
